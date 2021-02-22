@@ -1,4 +1,4 @@
-# windwolfui
+# WindWolf UI
 Components made with Tailwind CSS
 
 # 🏭 W.I.P 🏭
